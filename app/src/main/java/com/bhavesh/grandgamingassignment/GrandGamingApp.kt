@@ -1,4 +1,4 @@
-package com.bhavesh.grandgamingassignment.presentation
+package com.bhavesh.grandgamingassignment
 
 import android.app.Application
 import dagger.hilt.android.HiltAndroidApp
