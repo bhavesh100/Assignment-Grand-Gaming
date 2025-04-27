@@ -1,4 +1,4 @@
-# 🐱 Assignmenet Grand Gaming
+# 🐱 Assignment Grand Gaming
 
 A simple Android app that fetches and displays a list of cat images.  
 Users can click on any cat image to view it in full screen.
