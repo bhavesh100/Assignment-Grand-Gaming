@@ -29,7 +29,7 @@ Users can click on any cat image to view it in full screen.
 
 | Screen Recording |
 |:----------------:|
-| ![Screen Recording](screenshots/screen_recording.gif) |
+| [Screen Recording](https://drive.google.com/file/d/1KnzvIZs_pOkFOz3yHs_BqMkEdi3KnP7E/view?usp=drive_link) |
 
 ---
 
