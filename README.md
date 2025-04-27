@@ -21,7 +21,7 @@ Users can click on any cat image to view it in full screen.
 
 | Home Screen (List) | Detail Screen (Full Image) |
 |:-------------------:|:---------------------------:|
-| ![Home Screen](screenshots/home_screen.png) | ![Detail Screen](screenshots/detail_screen.png) |
+| ![Home Screen](screenshots/home_screen.jpg) | ![Detail Screen](screenshots/detail_screen.jpg) |
 
 ---
 
